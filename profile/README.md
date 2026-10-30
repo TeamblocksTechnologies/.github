@@ -15,3 +15,17 @@
   <a href="https://www.tiktok.com/@teamblocksdev"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logoColor=white&logo=tiktok" alt="TikTok"></a>
   <a href="https://www.facebook.com/profile.php?id=61595361357389"><img src="https://img.shields.io/badge/Facebook-000000?style=flat-square&logoColor=white&logo=facebook" alt="Facebook"></a>
 </p>
+
+## Apps
+
+<a href="https://github.com/TeamblocksTechnologies/chord">
+  <img src="https://raw.githubusercontent.com/TeamblocksTechnologies/chord/main/docs/images/social.png" alt="Chord. Local-first screen, camera, microphone and system audio recorder and editor." width="100%">
+</a>
+
+**[Chord](https://github.com/TeamblocksTechnologies/chord)** records your screen, camera, microphone and system audio, each on its own track. Everything stays fully editable and is stored as ordinary files on your computer.
+
+<p>
+  <img src="https://img.shields.io/badge/macOS-14%2B-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS 14 or later">
+  <img src="https://img.shields.io/badge/license-AGPL--3.0-000000?style=flat-square" alt="License: AGPL-3.0">
+  <img src="https://img.shields.io/badge/status-early%20development-000000?style=flat-square" alt="Status: early development">
+</p>
